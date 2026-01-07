@@ -1,6 +1,6 @@
 # Auto Multi-Port Scanner
 
-An automatic multi-port scanner. Enter FQDNs or hostnames into a local plaintext file, and it will check any open ports on those hostnames!
+An automatic multi-port scanner. Enter FQDNs or hostnames into the local plaintext file (hostnames.txt), and it will check any open ports on those hostnames!
 
 __Here's the process:__
 - Two variables are defined at the top: 
@@ -26,5 +26,6 @@ By default, the script will scan ports 1-10000. If you wish to scan a smaller, m
 On line 9, you can adjust amount of time each connection will take before it times out. I have it set to 0.001 seconds, but you can adjust this as you see fit.
 
 ## Disclaimer
+
 
 This script is only meant to be used ethically, and with a company's legal consent.
