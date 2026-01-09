@@ -1,5 +1,4 @@
-# __Auto Multi-Port Scanner__
-# Overview
+# __Auto Multi-Port Scanner__ - Overview
 An automatic multi-port scanner. Enter FQDNs or hostnames into the local plaintext file (hostnames.txt), and it will check any open ports on those hostnames!
 
 # How to Build and Run
@@ -44,3 +43,4 @@ Once I had those in place, the rest of the script was largely setting up variabl
 
 # Disclaimer
 This script is only meant to be used ethically, and with a company's legal consent.
+
