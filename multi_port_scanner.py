@@ -5,7 +5,7 @@ from socket import * # ? for opening and closing the socket connections
 
 # * VARIABLES
 # tgt_ports = [80, 443, 8080] # edit only if you have specific ports that you wish to scan
-hostnames_file_path = "E:\PYTHON\port_scanner\port_scanner_v1\hostnames.txt"
+hostnames_file_path = "./hostnames.txt"
 default_timeout = float(0.001) # ? determines how long the socket connection will try to connect for until timing out.
 
 
