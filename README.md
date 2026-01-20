@@ -34,9 +34,8 @@ The only other issue I encountered was that the script was running very slowly, 
 Once I had those in place, the rest of the script was largely setting up variables and for loops.
 
 # Wishlist of Future Features
-### Make It Into a Vulnerability Scanner
-- The big this is later on, I want to make an application that is a full-fledge vulnerability scanner. Checking ports is a simple way to start towards that larger project, so this was a great way to start making some functions that larger project would need using this smaller application.
+### Make It Into a Full-On Vulnerability Scanner
+- This is the long term result I want for this project. I want to make an application that is a full-fledge vulnerability scanner. Checking ports is a simple way to start towards that larger project, so this was a great way to start making some functions that larger project would need using this smaller application.
 
 # Disclaimer
 This script is only meant to be used ethically, and with a company's legal consent.
-
