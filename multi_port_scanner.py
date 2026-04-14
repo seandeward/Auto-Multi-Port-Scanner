@@ -1,6 +1,6 @@
 import os # ? for opening the hostnames.txt file
 from time import sleep
-from socket import * # ? for opening and closing the socket connections
+from socket import setdefaulttimeout, gethostbyname # ? for opening and closing the socket connections
 
 
 # * VARIABLES
